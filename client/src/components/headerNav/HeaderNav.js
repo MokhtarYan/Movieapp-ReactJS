@@ -23,7 +23,7 @@ const HeaderNav = () => {
             <Nav className="me-auto">
               <Nav.Link to="/">Home</Nav.Link>
               <Nav.Link to="/movies">Movies</Nav.Link>
-              <Nav.Link to="/tvSows">TV Shows</Nav.Link>
+              <Nav.Link to="/tvShows">TV Shows</Nav.Link>
               <input type="text" placeholder="Search" />
               <button>
                 {" "}
