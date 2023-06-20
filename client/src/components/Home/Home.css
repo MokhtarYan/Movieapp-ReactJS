@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Dancing+Script&family=Josefin+Sans:wght@500&family=Oswald&display=swap");
+
+.home {
+  display: flex;
+  justify-content: center;
+  align-items: end;
+  background-repeat: no-repeat;
+  background-color: black;
+  background-position: center;
+  height: 550px;
+  background-image: url("https://res.cloudinary.com/dqzabjiql/image/upload/v1686872877/channels4_profile_fwsbit.jpg");
+}
+
+.headerHome {
+  color: azure;
+  font-family: Josefin Sans, "Courier New", Courier, monospace;
+  font-size: xx-large;
+}
+.buttHome {
+  background-color: black;
+  color: azure;
+  font-family: Josefin Sans, "Courier New", Courier, monospace;
+
+  font-size: large;
+  border-radius: 20px;
+  height: 30px;
+  width: auto;
+}
+.buttHome:hover {
+  background-color: azure;
+  color: black;
+}
+
+.textHome {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-bottom: 5px;
+}
